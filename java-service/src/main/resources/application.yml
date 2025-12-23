@@ -1,0 +1,7 @@
+server:
+  port: 8081
+
+backend:
+  base-url: "http://localhost:5007"
+  student-detail-path: "/api/v1/students/service/{id}"
+  api-key: "J5u8gJm9kN3pQ1sVx0Yz"
